@@ -1,3 +1,8 @@
+Pico-Recipe
+===========
+
+This is a complete Pico CMS including recipes. Feel free to use it, and the recipes.
+
 Pico
 ====
 

@@ -6,7 +6,7 @@
             {% if meta.tags %}
                 <div>Tagger: <ul class="tags">
                 {% for tag in meta.tags %}
-                    <li><a href="{{ base_url }}/tags/?tag={{ tag }}">{{ tag }}</a></li>
+                    <li><a href="{{ base_url }}/?tag={{ tag }}">{{ tag }}</a></li>
                 {% endfor %}
                 </ul></div>
             {% endif %}

@@ -1,7 +1,7 @@
 ---
 Title: Naan brød
 Description: Naan brød
-Tags: indisk, tilbehør
+Tags: indisk, tilbehør, brød
 Template: recipe
 ---
 ## Naan brød
