@@ -1,0 +1,55 @@
+{% include ('header.twig') %}
+
+    <div id="main" role="main">
+        <div class="container">
+            {% set tag = url_param('tag', 'string') %}
+            {% set tags = get_all_tags() %}
+            {{ content }}
+            
+            {% if tag %}
+                <p>Oppskrifter med med tag <strong>{{ tag }}</strong>:</p>
+                {#
+                    List of all pages with a specified tag
+                    http://localhost/
+                #}
+                <ul class="recipes">
+                {% for recipe in pages("recipes") if recipe.title and tags and not (recipe.id ends with 'index') %}
+                    {% if recipe.meta.tags is iterable %}
+                        {% set pageTags = recipe.meta.tags %}
+                    {% else %}
+                        {% set pageTags = recipe.meta.tags|split(',') %}
+                    {% endif %}
+                    
+                    {% for pageTag in pageTags %}
+                        {% if pageTag|trim == tag %}
+                            <li>
+                                <a href="{{ recipe.url }}">{{ recipe.title }}</a>
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+                </ul>
+            {% else %}
+                <p>Alle oppskrifter:</p>
+                {#
+                    List of all recipes and tags used on the site
+                    http://localhost/tag=norsk
+                #}
+                <ul class="recipes">
+                    {% for recipe in pages("recipes") if recipe.title and not recipe.hidden %}
+                        <li{% if recipe.id == current_page.id %} class="active"{% endif %}>
+                            <a href="{{ recipe.url }}">{{ recipe.title }}</a>
+                        </li>
+                    {% endfor %}
+                </ul>
+                <p>Alle tagger:</p>
+                <ul class="tags">
+                {% for tag in tags|sort %}
+                    <li><a href="{{current_page.url}}/?tag={{ tag }}">{{ tag }}</a></li>
+                {% endfor %}
+                </ul>
+            {% endif %}
+        </div>
+    </div>
+
+{% include ('footer.twig') %}
