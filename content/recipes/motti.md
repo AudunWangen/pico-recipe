@@ -5,7 +5,8 @@ Tags: middag, finnskogen, husmannskost
 Template: recipe
 ---
 ## Motti og flesk
-![Motti og flesk](%assets_url%/motti.jpg)
+<!-- ![Motti og flesk](%assets_url%/motti.jpg) -->
+<img src="%assets_url%/motti.jpg" alt="Motti og flesk" style="float:right; width:50%; margin-left:1em">
 
 - Forberedelser: 1 minutt
 - Tilberedning: 30 minutter
