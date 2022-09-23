@@ -5,7 +5,7 @@ Tags: middag
 Template: recipe
 ---
 ## Ertesuppe
-<!-- ![Naan bread](%assets_url%/naan.jpg) -->
+![Ertesuppe](%assets_url%/ertesuppe.jpg)
 
 - Forberedelser: 5 minutter
 - Tilberedning: 20 minutter

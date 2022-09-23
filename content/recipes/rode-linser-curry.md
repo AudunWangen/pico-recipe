@@ -5,7 +5,7 @@ Tags: middag, vegetar, indisk
 Template: recipe
 ---
 ## Røde linser curry
-<!-- ![Naan bread](%assets_url%/naan.jpg) -->
+![Røde linser curry](%assets_url%/redlentils.jpg)
 
 - Forberedelser: 10 minutter
 - Tilberedning: 35 minutter
