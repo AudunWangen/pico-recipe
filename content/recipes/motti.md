@@ -1,7 +1,7 @@
 ---
 Title: Motti og flesk
 Description: Motti og flesk
-Tags: middag, finnskogen, husmannskost
+Tags: middag, finnskogen, husmannskost, svin
 Template: recipe
 ---
 ## Motti og flesk
