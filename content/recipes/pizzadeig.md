@@ -21,7 +21,7 @@ Template: recipe
 
 ### Slik gjør du
 
-Denne oppskriften er 80% vann. Juster til 65% hvis du synes den blir veldig klissete å jobbe med. Gir du deigen nok tid og bruker en god slikkepott og deigskrape, er den helt grei å jobbe med. Jeg kan anbefale [deigskrapene i plast fra Patisse](https://slikkepott.no/produkt/patisse-deigskrape-sett-trapes-pk-4/). For å få en sprø bunn, kan jeg også anbefale [pizzastål fra Norrland](https://bakerenogkokken.no/bakeutstyr/bakestenovnssten/gourmetstal-norrland-pizzastal/) og [[Eppicotispai pizzaspade](https://bakerenogkokken.no/kjokkenredskaper/stekespader/eppicotispai-kvadratisk-pizzabakespade-bjork/).
+Denne oppskriften er 80% vann. Juster til 65% hvis du synes den blir veldig klissete å jobbe med. Gir du deigen nok tid og bruker en god slikkepott og deigskrape, er den helt grei å jobbe med. Jeg kan anbefale [deigskrapene i plast fra Patisse](https://slikkepott.no/produkt/patisse-deigskrape-sett-trapes-pk-4/). For å få en sprø bunn, kan jeg også anbefale [pizzastål fra Norrland](https://bakerenogkokken.no/bakeutstyr/bakestenovnssten/gourmetstal-norrland-pizzastal/) og [Eppicotispai pizzaspade](https://bakerenogkokken.no/kjokkenredskaper/stekespader/eppicotispai-kvadratisk-pizzabakespade-bjork/).
 
 1. Løs opp lunkent vann, olje og tørrgjær i en bolle.
 2. Bland pizzamel og salt i en annen bolle.
