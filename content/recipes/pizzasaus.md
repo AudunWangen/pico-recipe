@@ -5,7 +5,8 @@ Tags: tilbehør
 Template: recipe
 ---
 ## Pizzasaus
-<!-- ![Naan bread](%assets_url%/naan.jpg) -->
+
+Passer fint til [pizza](?recipes%2Fpizzadeig), naturlig nok, men kan også brukes til pasta.
 
 - Forberedelser: 10 minutter
 - Tilberedning: 30 minutter
