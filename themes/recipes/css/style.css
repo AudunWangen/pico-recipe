@@ -99,8 +99,8 @@ body { display: flex; flex-direction: column; }
     font-weight: bold;
 }
 
-#nav a, #nav-toggle { color: #6a5e30; }
-#nav .active a, #nav a:hover, #nav-toggle:hover { color: #6a5e30ab; }
+#nav a, #nav-toggle { color: #988a59; }
+#nav .active a, #nav a:hover, #nav-toggle:hover { color: #988a59ab; }
 
 #nav-toggle { display: none; }
 
@@ -118,8 +118,8 @@ body { display: flex; flex-direction: column; }
     color: #C0C0C0;
 }
 
-#footer a { color: #6a5e30; }
-#footer a:hover { color: #6a5e30ab; }
+#footer a { color: #988a59; }
+#footer a:hover { color: #988a59ab; }
 
 #footer p {
     margin: 0;
@@ -198,12 +198,12 @@ p, hr, table, .table-responsive, ol, ul, dl, dd, pre, blockquote, fieldset {
 }
 
 a {
-    color: #6a5e30;
+    color: #988a59;
     text-decoration: none;
     -webkit-transition: color .2s ease-in;
             transition: color .2s ease-in;
 }
-a:hover { color: #6a5e30ab; }
+a:hover { color: #988a59ab; }
 
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0.6em;
@@ -365,8 +365,8 @@ input:not([type="checkbox"]):not([type="radio"]), button, select, textarea {
     font-size: 1rem;
 }
 input:focus:not([type="checkbox"]):not([type="radio"]), button:focus, select:focus, textarea:focus {
-    border-color: #6a5e30;
-    box-shadow: 0 0 8px #6a5e30ab;
+    border-color: #988a59;
+    box-shadow: 0 0 8px #988a59ab;
 }
 input[type="button"]:focus, input[type="submit"]:focus, input[type="reset"]:focus, button:focus,
 input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hover, button:hover {
