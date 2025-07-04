@@ -4,7 +4,7 @@ Description: Kylling i tomatsaus med paprika og oliven
 Tags: middag, kylling, gresk
 Template: recipe
 ---
-## navn på oppskrift
+## Kylling i tomatsaus med paprika og oliven
 <!-- ![Naan bread](%assets_url%/naan.jpg) -->
 
 - Forberedelser: 20 minutter
@@ -36,5 +36,5 @@ Template: recipe
 5. Stek løken til den blir myk.
 6. Stek paprika og hvitløk i noen minutter. Ha i ansjosfiletene, mos dem og bland dem sammen med grønnsakene. Ha opp i tomatene og la det koke opp. Rør inn kapers, oliven og rosmarin.
 7. Ha alt i en form og legg kyllinglårene oppi sausen.
-8. Sett alt i ovenen og la det stå i ca 30 minutter, eller til kyllingen er gjennomstekt.
+8. Sett alt i ovnen og la det stå i ca 30 minutter, eller til kyllingen er gjennomstekt.
 9. Fjern rosmaringrenene og server med godt brød, ris eller pasta.

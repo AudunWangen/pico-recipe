@@ -33,7 +33,7 @@ Template: recipe
 ### Slik gjør du
 
 1. Kok byggryn etter anvisningen på pakken og la vannet renne av.
-2. Skjør laksen i biter, legg i en ildfast form og pensle med teriyakisaus.
+2. Skjær laksen i biter, legg i en ildfast form og pensle med teriyakisaus.
 3. Finhakk løk, chili, ingefær og koriander. Fordel halvparten på laksen og stek i ovnen på 180&deg;C i 12-16 minutter.
-4. Skjør mango og avokado i små terninger. Tilsett lime og resten av blandingen av løk, chili, ingefær og koriander. Smak til med salt og pepper.
+4. Skjær mango og avokado i små terninger. Tilsett lime og resten av blandingen av løk, chili, ingefær og koriander. Smak til med salt og pepper.
 5. Server laksen med byggryn og salaten.
