@@ -5,7 +5,7 @@ Tags: drikke, alkohol, rom
 Template: recipe
 ---
 ## Mojito
-<!-- ![Naan bread](%assets_url%/naan.jpg) -->
+![Mojito](%assets_url%/mojito.jpg)
 
 - Tilberedning: 5 minutter
 - Porsjoner: 1
